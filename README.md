@@ -13,8 +13,6 @@ https://git-scm.com/downloads
   
   
   
-Selanjutnya menentukan lokasi instalasi. Biarkan saja apa adanya, kemudian klik Next >> sampai muncul sebagai berikut:
-  
   Selanjutnya pemilihan emulator terminal. Pilih saja yang bawah, kemudian klik Next >.
   ![21](https://user-images.githubusercontent.com/92708806/138262820-dfb1e0ed-2f98-47db-bb71-4f82018ee05d.jpg)
 
